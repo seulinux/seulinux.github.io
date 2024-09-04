@@ -10,20 +10,23 @@
 
 我们的招新不限专业、不限年级！一些曾经在入社边缘试探的非新生们也可以把握这次机会。目前我们的社员专业分布包括但不限于 CS（计科、软件、人工智能、网安）、自动化、机械、数学、电子、材料等。
 
-## 我该如何加入东南大学 Linux 俱乐部 ?
+## 我该如何加入东南大学 Linux 俱乐部？
 
 您只需要尝试完成一道简单的题目，然后参与我们的简单的面试环节（简单的聊聊天）即可。
 
 ### 招新题目
 
-请尝试完成下面的一道题目，并**将您的完成过程写成一份 Word 或者 Markdown 文档发送给我们！**这道题目不需要您有任何编程的基础，只需要具备利用搜索引擎搜集资料解决问题的能力。
+请尝试完成下面的一道题目，并**将您的完成过程写成一份 Word、Markdown 文档或是通过其他工具生成的 PDF 文档发送给我们！**这道题目不需要您有任何编程的基础，只需要具备利用搜索引擎搜集资料解决问题的能力。
 
 1. 请尝试在您的电脑上安装一个 Linux 虚拟机。
 
-    - Linux 发行版不限: 您想用什么发行版都可以！ Ubuntu / Debian / Fedora ......
-    - 请使用带有图形界面的虚拟机软件，例如 VMware / VirtualBox / Hyper-V 等。 **请不要使用 WSL, 因为 WSL 的安装过程省略了很多的步骤。**
+    - Linux 发行版不限：想用什么发行版都可以！[Ubuntu](https://ubuntu.com/) / [Debian](https://www.debian.org/) / [Fedora](https://www.debian.org/) / [Arch Linux](https://archlinux.org/) / [openSUSE](https://www.opensuse.org/) ......
+    - 推荐请使用带有图形界面的虚拟机软件，例如 VMware / VirtualBox / Hyper-V / UTM / QEMU / Parallels Desktop 等。
+    - 在 Windows 上，WSL 是一个实用的工具，但在本题中还请不要使用。本题的重点是安装的过程，而 WSL 略去了相关步骤，并且也不会提供开箱即用的桌面环境。类似的，也请尽量不要使用预安装、可供导入的现有虚拟机。
+    - 推荐的参考文档包括由 USTC LUG 所撰写的「[Linux 101](https://101.lug.ustc.edu.cn/)」等。
+    - 当然，如果您已经在使用 Linux 桌面环境阅读本题，或此前已经尝试过并常用相关环境，就不需要重新安装了！在文档中与我们分享您日用的 Linux 桌面环境即可。
 
-2. 安装完毕以后，请在虚拟机的终端中尝试使用 `uname -a` 或者 命令显示 Linux 内核版本信息，**并截图放到文档中**。一般来说，`uname -a` 命令的输出应当类似如下:
+2. 安装完毕以后，请在虚拟机的终端中尝试使用 `uname -a` 命令显示 Linux 内核版本信息，**并截图放到文档中**。一般来说，`uname -a` 命令的输出应当类似如下:
 
     ```
     Linux jinbridge-vm 5.15.0-118-generic #128-Ubuntu SMP Fri Jul 5 09:28:59 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
@@ -31,6 +34,6 @@
 
 ### 提交方式
 
-**请将您的完成步骤写成一份 Word 或者 Markdown 文档发送至 [recruit@seumsc.com](mailto:recruit@seumsc.com) **，邮件的主题为 姓名 + 年级 + QQ 号，我们确认无误后会联系您参与我们的面试环节！
+**请将您的完成步骤写成一份 Word、Markdown 文档或是通过其他工具生成的 PDF 文档发送至 [recruit@seumsc.com](mailto:recruit@seumsc.com) **，邮件的主题为 姓名 + 年级 + QQ 号，我们确认无误后会联系您参与我们的面试环节！
 
 收集这些信息以确保我们邀请您参加面试时联系到人，不作其他用途。
