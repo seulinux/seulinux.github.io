@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# 予力众生，成就非凡
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## **欢迎来到 Linux Club @ SEU !**
 
-## Commands
+我们是一群来自各个专业（CS，SE 等方向专业较多）的热爱技术的同学（各种意想不到的点满了各种技能树的群友），与小猴偷米，网安 SUS 战队，东南大学网信中心互有交集。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+在这里，你可以在群里交流各种 新奇的技术 / 日常生活的各种新鲜事 / 经验分享 / 问题求助。开学后，社团办公地基本上随时开放，可以在这边进行技术沙龙和新闻分享活动。

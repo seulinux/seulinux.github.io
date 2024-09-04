@@ -1,4 +1,48 @@
 site_name: Linux Club @ SEU
 site_url: https://seulinux.github.io
+repo_url: https://github.com/seulinux/seulinux.github.io
+repo_name: seulinux/seulinux.github.io
+
 theme:
   name: material
+  language: zh
+  icon:
+    logo: logo
+  features:
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+nav:
+  - 主页:
+    - index.md
+    - links.md
+  - 招新:
+    - hire.md
+  - 关于:
+    - about.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/seulinux
