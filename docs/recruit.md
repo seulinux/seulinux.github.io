@@ -20,7 +20,7 @@
 
 1. 请尝试在您的电脑上安装一个 Linux 虚拟机。
 
-    - Linux 发行版不限：想用什么发行版都可以！[Ubuntu](https://ubuntu.com/) / [Debian](https://www.debian.org/) / [Fedora](https://www.debian.org/) / [Arch Linux](https://archlinux.org/) / [openSUSE](https://www.opensuse.org/) ......
+    - Linux 发行版不限：想用什么发行版都可以！[Ubuntu](https://ubuntu.com/) / [Debian](https://www.debian.org/) / [Fedora](https://fedoraproject.org/) / [Arch Linux](https://archlinux.org/) / [openSUSE](https://www.opensuse.org/) ......
     - 推荐请使用带有图形界面的虚拟机软件，例如 VMware / VirtualBox / Hyper-V / UTM / QEMU / Parallels Desktop 等。
     - 在 Windows 上，WSL 是一个实用的工具，但在本题中还请不要使用。本题的重点是安装的过程，而 WSL 略去了相关步骤，并且也不会提供开箱即用的桌面环境。类似的，也请尽量不要使用预安装、可供导入的现有虚拟机。
     - 推荐的参考文档包括由 USTC LUG 所撰写的「[Linux 101](https://101.lug.ustc.edu.cn/)」等。
