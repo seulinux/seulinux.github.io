@@ -16,12 +16,16 @@ theme:
         icon: material/brightness-auto
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
+      primary: cyan
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -31,7 +35,7 @@ nav:
     - index.md
     - links.md
   - 招新:
-    - hire.md
+    - recruit.md
   - 关于:
     - about.md
 
