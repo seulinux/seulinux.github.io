@@ -1,3 +1,7 @@
 header.md-header, nav.md-tabs {
      background: linear-gradient(to right, #36b1da 0%, #29c6cd 100%);
 }
+
+div.md-header__title {
+    margin-left: .4rem !important;
+}

@@ -6,6 +6,7 @@ repo_name: seulinux/seulinux.github.io
 theme:
   name: material
   language: zh
+  logo: assets/pure-logo-white.svg
   icon:
     logo: logo
   features:
