@@ -34,6 +34,6 @@
 
 ### 提交方式
 
-**请将您的完成步骤写成一份 Word、Markdown 文档或是通过其他工具生成的 PDF 文档发送至 [recruit@seumsc.com](mailto:recruit@seumsc.com) **，邮件的主题为 姓名 + 年级 + QQ 号，我们确认无误后会联系您参与我们的面试环节！
+**请将您的完成步骤写成一份 Word、Markdown 文档或是通过其他工具生成的 PDF 文档发送至 [recruit@seulinux.com](mailto:recruit@seulinux.com) **，邮件的主题为 姓名 + 年级 + QQ 号，我们确认无误后会联系您参与我们的面试环节！
 
 收集这些信息以确保我们邀请您参加面试时联系到人，不作其他用途。
