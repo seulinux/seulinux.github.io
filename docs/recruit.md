@@ -34,7 +34,7 @@
 
 ### 提交方式
 
-**请将您的完成步骤写成一份 Word、Markdown 文档或是通过其他工具生成的 PDF 文档发送至 [recruit@seulinux.com](mailto:recruit@seulinux.com) **，邮件的主题为 姓名 + 年级 + QQ 号。
+请将您的完成步骤写成一份 Word、Markdown 文档或是通过其他工具生成的 PDF 文档发送至 [recruit@seulinux.com](mailto:recruit@seulinux.com)，邮件的主题为 姓名 + 年级 + QQ 号。
 
 请在邮件正文中附上：
 
